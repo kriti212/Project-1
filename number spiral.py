@@ -13,3 +13,6 @@ for _ in range(t):
         result=(y*y)-(x-1)
 
     print(result)
+
+    # I made changes in the file
+
